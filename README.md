@@ -5,15 +5,15 @@ This project analyzes e-commerce performance using SQL and Power BI.
 The goal was to identify key drivers of revenue, customer behavior, and refund patterns to support better business decisions.
 
 ##🛠️ Tools Used
-SQL (data extraction & analysis)
-Power BI (dashboard & visualization)
+-SQL (data extraction & analysis)
+-Power BI (dashboard & visualization)
 
 ##📈 Key Metrics
-Total Revenue
-Average Order Value (AOV)
-Total Orders
-Revenue by Channel
-Refund Rate by Channel
+-Total Revenue
+-Average Order Value (AOV)
+-Total Orders
+-Revenue by Channel
+-Refund Rate by Channel
 
 🔍 Key Insights
 ###💰 Revenue Distribution
