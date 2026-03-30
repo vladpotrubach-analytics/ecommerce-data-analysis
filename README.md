@@ -15,8 +15,8 @@ The goal was to identify key drivers of revenue, customer behavior, and refund p
 -Refund Rate by Channel
 🔍 Key Insights
 💰 Revenue Distribution
-Email, Facebook Ads, and Direct channels generate the highest revenue (~$22–23K each)
-Organic channel generates the lowest revenue (~$18K)
+Email, Facebook Ads, and Direct channels generate the highest revenue ($22–23K each)
+Organic channel generates the lowest revenue ($18K)
 👉 Insight: Paid and direct channels drive most of the business performance
 
 🔄 Refund Behavior
