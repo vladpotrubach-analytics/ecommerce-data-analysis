@@ -45,15 +45,6 @@ The Power BI dashboard provides an interactive view of:
 Revenue distribution
 Channel performance
 Refund analysis
-
-📸 See dashboard preview in /Power_BI/dashboard.png
-📁 Power BI file included for full exploration
-ecommerce-data-analysis/
-📂 Project Structure
-│
-├── SQL/                # SQL queries for analysis
-├── Power_BI/           # Dashboard file + screenshot
-├── README.md
 🚀 Outcome
 
 This project demonstrates:
