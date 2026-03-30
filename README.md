@@ -10,10 +10,15 @@ The goal was to identify key drivers of revenue, customer behavior, and refund p
 
 ##📈 Key Metrics
 -Total Revenue
+
 -Average Order Value (AOV)
+
 -Total Orders
+
 -Revenue by Channel
+
 -Refund Rate by Channel
+
 
 🔍 Key Insights
 ###💰 Revenue Distribution
